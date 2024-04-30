@@ -1,0 +1,1 @@
+# Not-a-Scam.com
