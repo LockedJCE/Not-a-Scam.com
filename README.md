@@ -8,6 +8,11 @@
  
 ## Description
 
+
+![13-orm-homework-demo-01](https://github.com/LockedJCE/Not-a-Scam.com/assets/163614828/f704354c-086e-42bd-84a7-f0d66054b8f9)
+
+![13-orm-homework-demo-02](https://github.com/LockedJCE/Not-a-Scam.com/assets/163614828/cb3a47c8-33d2-4034-a8dc-6bc34c8997b6)
+
 ## Table of Contents
   * [Acceptance-Criteria](#acceptance-criteria)
   * [Installation](#installation)
