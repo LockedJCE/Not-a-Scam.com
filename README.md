@@ -48,9 +48,6 @@ npm init --y
 ```terminal
 npm install
 ```
-```terminal
-source db/schema.sql
-```
 and then input the following in your terminal
 ```terminal
 npm run seed
